@@ -1,0 +1,5 @@
+#+TITLE: Home
+
+Welcome to our humble website.
+
+While we are working on this landing page, please visit [[./blog/index.org][our blog]].
