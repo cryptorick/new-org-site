@@ -12,7 +12,7 @@ The setup file, [init.el](init.el), was stolen from, er inspired by, http://nico
 This repo is just a skeleton -- something for you/me to start out with.
 
 1. Clone this repo.
-2. Fire up emacs, visit the file `init.el` and eval it.
+2. Fire up emacs, visit the file `init.el`, edit it to suit you, then eval it.
 3. Edit the `.org` files already under the `src/` directory, or create new ones under `src/`.
 4. When you're ready to publish, do a `M-x org-publish` `website`.
 5. Point your browser to the `htdocs/` directory to see the result.
